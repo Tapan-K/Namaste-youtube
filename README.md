@@ -1,4 +1,4 @@
-# Project Setup - Namaste-YT
+# Project Setup - Namaste-Youtbe
 
 - Create React App
 - install redux/ tookit
